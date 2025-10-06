@@ -1,2 +1,4 @@
 /Angular_CRUD_Test/Angular_CRUD_Test/bin
 /Angular_CRUD_Test/Angular_CRUD_Test/obj
+config.bat
+node_modules
